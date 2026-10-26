@@ -6,4 +6,4 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ## Hello!
 
-I'm a beginner hobbyist programmer.
+I program for fun (sometimes).
